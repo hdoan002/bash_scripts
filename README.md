@@ -1,4 +1,4 @@
-# bash_scripts
+# Bash Scripts
 A collection of bash scripts that I have made:
 
 1. ssh script
